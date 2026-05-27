@@ -7,4 +7,4 @@ _Allostery stabilizing early autocatalytic ribozyme systems: coupling energy met
 
 Here is the DOI for the released code:
 
-*TBD*
+[![DOI](https://zenodo.org/badge/1251106753.svg)](https://doi.org/10.5281/zenodo.20408570)
